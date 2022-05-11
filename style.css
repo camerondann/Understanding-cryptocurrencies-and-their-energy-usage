@@ -36,7 +36,7 @@ header {
 }
 article {
     padding: 5%;
-    max-width: 700px;
+    max-width: 5000px;
 }
 footer {
     margin-left: auto;
@@ -57,17 +57,7 @@ footer {
     color: white;
     background-color: rgba(0,0,0,0.8);
 }
-.containerWeather {
-    padding: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid;
-    border-radius: 10px;
-    text-align: left;
-    max-height: 170px;
-    max-width: 215px;
-}
+
 .navbarContainer {
     background: linear-gradient(180deg, rgba(47,47,50,1) 0%, rgba(18,18,19,1) 80%);
     display: flex;
