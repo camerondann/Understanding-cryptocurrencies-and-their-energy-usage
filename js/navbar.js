@@ -7,7 +7,7 @@ document.querySelector("header").innerHTML =
 <li><i class="fa-solid fa-bars" id="mobileMenu"></i></li>
 <li>
 <a href="./index.html" class="fa-solid fa-house" id="homeButton"></a>
-<a href="./index.html" id="homeText">WeatherReport</a>
+<a href="./index.html" id="homeText">Cryptocurrency</a>
 </li>
 </ul>
 </nav>
