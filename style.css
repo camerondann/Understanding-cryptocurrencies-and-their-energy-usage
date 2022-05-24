@@ -45,7 +45,8 @@ footer {
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
-    color: white;
+    background-color: #6e736f;
+    color: #ffffff;
 }
 .container {
     display: flex;
